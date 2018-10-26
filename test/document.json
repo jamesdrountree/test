@@ -36,6 +36,9 @@
     "Page 1"
   ],
   "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"909195692\",\"layerId\":\"62B659AA-B23D-4A51-A597-8884580F40CF\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }
